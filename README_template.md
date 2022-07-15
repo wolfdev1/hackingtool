@@ -1,4 +1,7 @@
 ### All in One Hacking tool For Hackers🥇
+### Tested in Kali, Parrot, Ubuntu and Arch Linux 🐧
+### The fastest tool for pentesting and machine solving 🗡️
+
 ![](https://img.shields.io/github/license/Z4nzu/hackingtool)
 ![](https://img.shields.io/github/issues/Z4nzu/hackingtool)
 ![](https://img.shields.io/github/issues-closed/Z4nzu/hackingtool)
@@ -21,7 +24,7 @@
 - [X] Added Tool in Wifi-Jamming
 
 
-# Hackingtool Menu 🧰
+# Hackingtool Menu (Images in (Kali Linux) 🧰
 
 ![](https://github.com/Z4nzu/hackingtool/blob/master/images/A00.png)
 ![](https://github.com/Z4nzu/hackingtool/blob/master/images/A0.png)
@@ -47,6 +50,7 @@
 
 After all steps are completed, run the following command ---> **root@kaliLinux:~** **hackingtool**
 
+#### 🚩
 #### Thanks to original Author of the tools used in hackingtool
 
 <img src ="https://img.shields.io/badge/Important-notice-red" />
@@ -60,10 +64,11 @@ After all steps are completed, run the following command ---> **root@kaliLinux:~
 ## Social Media :mailbox_with_no_mail:
 [![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/_Zinzu07)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Z4nzu/)](https://github.com/Z4nzu/)
-##### If you favorite tool is not included, or you have any suggestions, please [CLICK HERE](https://forms.gle/b235JoCKyUq5iM3t8)
-![Z4nzu's github stats](https://github-readme-stats.vercel.app/api?username=Z4nzu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+##### Just look, everything you need is here 
+##### If you favorite tool is not included, if you have any suggestions, please [CLICK HERE](https://forms.gle/b235JoCKyUq5iM3t8)
 
 <a href="https://www.buymeacoffee.com/Zinzu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 50px !important;"></a>
 
 #### Don't forget to share this tool with your friends!
+#### Use only for educational / work purposes
 #### Thank you!!!
