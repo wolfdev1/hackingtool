@@ -15,6 +15,11 @@ from tools.others.socialmedia_finder import SocialMediaFinderTools
 from tools.others.web_crawling import WebCrawlingTools
 from tools.others.wifi_jamming import WifiJammingTools
 
+#It is highly recommended to use the tools inside root
+#sudo su, this to improve efficiency, which is the goal of this tool
+
+#Avoid running tools while another python process is running 
+#since it can interfere or cause performance problems when we use the tools 
 
 class HatCloud(HackingTool):
     TITLE = "HatCloud(Bypass CloudFlare for IP)"
