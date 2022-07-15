@@ -5,6 +5,12 @@ import subprocess
 from core import HackingTool
 from core import HackingToolsCollection
 
+#It is highly recommended to use the tools inside root
+#sudo su, this to improve efficiency, which is the goal of this tool
+
+#Avoid running tools while another python process is running 
+#since it can interfere or cause performance problems when we use the tools 
+
 class ddos(HackingTool):
     TITLE ="ddos"
     DESCRIPTION = "Best DDoS Attack Script With 36 Plus Methods." \
